@@ -436,3 +436,10 @@ onetag.com, 77cc0899358027b-OB, RESELLER
 appnexus.com, 13099, RESELLER
 yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+#mintegral
+gitberry.com, 325100011, DIRECT
+gitberry.com, 325100012, RESELLER
+pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
+contextweb.com, 562724, RESELLER, 89ff185a4c4e857c
+improvedigital.com, 1361, RESELLER
+triplelift.com, 12552, RESELLER, 6c33edb13117fd86
